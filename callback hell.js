@@ -15,7 +15,7 @@ let stocks = {
 let order = (fruit_name, call_production) =>{
 
   setTimeout(function(){
-
+    
     console.log(`${stocks.Fruits[fruit_name]} was selected`)
 
 // Order placed. Call production to start
